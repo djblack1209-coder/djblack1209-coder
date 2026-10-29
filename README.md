@@ -21,8 +21,14 @@ I build AI tools for education, music, and automation — and ship them end-to-e
 ![Carven's GitHub stats](https://github-readme-stats.vercel.app/api?username=djblack1209-coder&show_icons=true&theme=transparent)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djblack1209-coder&layout=compact&theme=transparent)
 
+## 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djblack1209-coder/djblack1209-coder/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djblack1209-coder/djblack1209-coder/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/djblack1209-coder/djblack1209-coder/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🌍 Work with me
 
 Open to remote contract / project work worldwide — asynchronous and deliverable-based: AI product development, agent tooling, desktop apps.
-
-📍 Xi'an, China (UTC+8)
