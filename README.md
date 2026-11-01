@@ -7,9 +7,9 @@ I build AI tools for education, music, and automation — and ship them end-to-e
 ## 🚀 What I'm building
 
 - **Lazy AI** — AI lesson-prep platform for teachers: lesson plans, editable courseware, and science animations from a single prompt
-- **Yozi AI** — AI study coach: conversational learning with FSRS review scheduling · [EXAM-MASTER](https://github.com/djblack1209-coder/EXAM-MASTER)
+- **Yozi AI** — AI study coach: conversational learning with FSRS review scheduling · [Yozi-AI](https://github.com/djblack1209-coder/Yozi-AI)
 - **SonicExtract** — audio toolkit for DJs: encrypted-format decryption, BPM/Key analysis, stem separation · [sonicextract.online](https://sonicextract.online)
-- **OpenEverything** — personal AI automation platform with a multi-model workbench · [OpenClaw-Bot](https://github.com/djblack1209-coder/OpenClaw-Bot)
+- **Cenlio** — personal AI automation platform with a multi-model workbench · [Cenlio](https://github.com/djblack1209-coder/Cenlio)
 - **Latitude Browser** — desktop workspace for browser profiles, proxy routing, and automation · [Latitude-Browser](https://github.com/djblack1209-coder/Latitude-Browser)
 
 ## 🛠 Tech stack
