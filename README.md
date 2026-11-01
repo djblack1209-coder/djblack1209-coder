@@ -6,9 +6,9 @@ I build AI tools for education, music, and automation — and ship them end-to-e
 
 ## 🚀 What I'm building
 
-- **Lazy AI** — AI lesson-prep platform for teachers: lesson plans, editable courseware, and science animations from a single prompt
-- **Yozi AI** — AI study coach: conversational learning with FSRS review scheduling · [Yozi-AI](https://github.com/djblack1209-coder/Yozi-AI)
-- **SonicExtract** — audio toolkit for DJs: encrypted-format decryption, BPM/Key analysis, stem separation · [sonicextract.online](https://sonicextract.online)
+- **Lazy AI** — AI lesson-prep platform for teachers: lesson plans, editable courseware, and science animations from a single prompt · [lazy.bot.cd](https://lazy.bot.cd) · *core product — source currently private*
+- **Yozi AI** — AI study coach: conversational learning with FSRS review scheduling · [Yozi-AI](https://github.com/djblack1209-coder/Yozi-AI) · [yozi.bot.cd](https://yozi.bot.cd)
+- **SonicExtract** — audio toolkit for DJs: encrypted-format decryption, BPM/Key analysis, stem separation · [sonicextract.online](https://sonicextract.online) · *source currently private*
 - **Cenlio** — personal AI automation platform with a multi-model workbench · [Cenlio](https://github.com/djblack1209-coder/Cenlio)
 - **Latitude Browser** — desktop workspace for browser profiles, proxy routing, and automation · [Latitude-Browser](https://github.com/djblack1209-coder/Latitude-Browser)
 
@@ -32,3 +32,5 @@ I build AI tools for education, music, and automation — and ship them end-to-e
 ## 🌍 Work with me
 
 Open to remote contract / project work worldwide — asynchronous and deliverable-based: AI product development, agent tooling, desktop apps.
+
+Reach me on [Contra](https://contra.com/sheng_yan) or [X](https://x.com/BonoDJblack).
