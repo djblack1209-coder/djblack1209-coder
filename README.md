@@ -18,8 +18,8 @@ I build AI tools for education, music, and automation — and ship them end-to-e
 
 ## 📊 GitHub stats
 
-![Carven's GitHub stats](https://github-readme-stats.vercel.app/api?username=djblack1209-coder&show_icons=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djblack1209-coder&layout=compact&theme=transparent)
+![Carven's GitHub stats](profile-summary-card-output/github_dark/3-stats.svg)
+![Top languages](profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
 ## 🐍 Contribution snake
 
