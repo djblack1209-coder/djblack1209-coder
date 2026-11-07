@@ -6,11 +6,11 @@ I build AI tools for education, music, and automation — and ship them end-to-e
 
 ## 🚀 What I'm building
 
-- **Lazy AI** — AI lesson-prep platform for teachers: lesson plans, editable courseware, and science animations from a single prompt · [lazy.bot.cd](https://lazy.bot.cd) · *core product — source currently private*
-- **Yozi AI** — AI study coach: conversational learning with FSRS review scheduling · [Yozi-AI](https://github.com/djblack1209-coder/Yozi-AI) · [yozi.bot.cd](https://yozi.bot.cd)
-- **SonicExtract** — audio toolkit for DJs: encrypted-format decryption, BPM/Key analysis, stem separation · [sonicextract.online](https://sonicextract.online) · *source currently private*
-- **Cenlio** — personal AI automation platform with a multi-model workbench · [Cenlio](https://github.com/djblack1209-coder/Cenlio)
-- **Latitude Browser** — desktop workspace for browser profiles, proxy routing, and automation · [Latitude-Browser](https://github.com/djblack1209-coder/Latitude-Browser)
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/lazy-ai-dark.svg" /><img src="assets/projects/lazy-ai.svg" width="20" height="20" alt="" /></picture> **Lazy AI** prepares lesson plans, editable slides and science demonstrations from a teacher’s prompt. The app exports PPTX and DOCX. *Live site · private source.* [Lazy AI](https://lazy.bot.cd/)
+- **Yozi AI** helps learners practice, revise and pick up where they left off, using a model they connect. *Version 2.2.0 · macOS Apple silicon download.* [Yozi AI](https://yozi.bot.cd/) · [Source](https://github.com/djblack1209-coder/Yozi-AI)
+- **Latitude Browser** keeps browser profiles, proxy routes and local automation in one desktop workspace. *Fieldwork 2.2.0 · source available for noncommercial use.* [Latitude Browser](https://latitude.de5.net/) · [Source](https://github.com/djblack1209-coder/Latitude-Browser)
+- **Cenlio** brings together intelligence briefs, research and multi-model collaboration. *In development · public reference repository.* [Cenlio](https://github.com/djblack1209-coder/Cenlio)
+- **SonicExtract** is a DJ toolkit for music search, BPM and key analysis, stem separation and two-deck mixing. *Live site · private source.* [SonicExtract](https://sonicextract.online/)
 
 ## 🛠 Tech stack
 

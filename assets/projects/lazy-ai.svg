@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="lazy-ai-mark-paper-title lazy-ai-mark-paper-desc">
+  <title id="lazy-ai-mark-paper-title">Lazy AI</title>
+  <desc id="lazy-ai-mark-paper-desc">Lesson Stand: an open lesson spread on a classroom lectern.</desc>
+  <path id="lazy-ai-mark-paper-spread" data-token="ink" fill="#1C1C1C" d="M16 26C16 24.9 16.89 23.93 17.99 23.85C42.27 22.13 47.48 24.68 64 35C80.52 24.68 85.73 22.13 110.01 23.85C111.11 23.93 112 24.9 112 26V40.05C89.03 38.28 88.67 38.45 64 53.87C46.83 43.14 41.44 39.79 32 39.35V51.38C38.92 52.16 44.73 55.98 64 68.02C94.45 48.99 91.3 50.49 112 52.08V60.08C112 64.5 108.42 68.05 104 68.23C83.84 69.07 82.62 73.37 72 80V92H56V80C45.38 73.37 44.16 69.07 24 68.23C19.58 68.05 16 64.5 16 60.08Z"/>
+  <path id="lazy-ai-mark-paper-foot" data-token="gold" fill="#89672F" d="M42 90H86C88.76 90 91.88 92.06 92.97 94.6L97 104H31L35.03 94.6C36.12 92.06 39.24 90 42 90Z"/>
+</svg>
